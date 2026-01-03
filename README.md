@@ -1,4 +1,4 @@
-# JavaScript API Examples
+# JavaScript API
 
 A simple JavaScript project demonstrating how to work with APIs using the Fetch API and async/await.
 
@@ -15,4 +15,4 @@ A simple JavaScript project demonstrating how to work with APIs using the Fetch 
 ## How to Run
 1. Clone the repository
    ```bash
-   git clone https://github.com/your-username/your-repo-name.git
+   git clone: https://fida-ur-rahman.github.io/JavaScript-API/
